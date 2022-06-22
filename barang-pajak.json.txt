@@ -1,0 +1,34 @@
+[
+    {
+        "nama": "susu",
+        "gambar": "susu.jpg"
+    },
+    {
+        "nama": "beras",
+        "gambar": "beras.jpg"
+    },
+    {
+        "nama": "ikan",
+        "gambar": "ikan.jpg"
+    },
+    {
+        "nama": "jagung",
+        "gambar": "jagung.jpg"
+    },
+    {
+        "nama": "gula",
+        "gambar": "gula.jpg"
+    },
+    {
+        "nama": "ayam",
+        "gambar": "ayam.jpg"
+    },
+    {
+        "nama": "sayur",
+        "gambar": "sayur.jpg"
+    },
+    {
+        "nama": "ubi",
+        "gambar": "ubi.jpeg"
+    },
+]
