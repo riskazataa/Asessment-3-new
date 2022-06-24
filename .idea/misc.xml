@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/drawable/circle_background.xml" value="0.249" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/font/akaya_telivigala.xml" value="0.12685185185185185" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/font/font.xml" value="0.12685185185185185" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/fragment_about.xml" value="0.25" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/fragment_histori.xml" value="0.25" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/fragment_hitung.xml" value="0.1" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/fragment_objek_non_ppn.xml" value="0.25" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/item_histori.xml" value="0.25" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/layout/item_objek_non_ppn.xml" value="0.2" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/menu/histori_menu.xml" value="0.25" />
+        <entry key="..\:/Semester 4/Assessment1/app/src/main/res/menu/options_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
